@@ -1,0 +1,2 @@
+# vitejs-docker
+template base
